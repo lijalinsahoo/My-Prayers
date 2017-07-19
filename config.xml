@@ -10,7 +10,7 @@
     
     <preference name="windows-identity-name" value="26744SamareshBisoi.21906E7BA496D" />
     
-    <content src="index.html" />
+    <content src="welcome.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     
