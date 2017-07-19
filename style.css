@@ -763,6 +763,7 @@ overflow: scroll;
 padding:0 0 15px 0;
 margin:0px;
 clear:both;
+font-size: 15px;
 }
 #pages_maincontent img{
 display:block;
@@ -1020,6 +1021,7 @@ display:block;
 width:43%;
 float:left;
 border-bottom:1px #ddd solid;
+font-size:15px;
 }
 ul.features_list_detailed li:nth-child(even){
 float:right;
@@ -2536,9 +2538,9 @@ body.with-panel-right-cover .panel-right {
   transform: translate3d(-85%, 0, 0);
 }
 h2.page_title{
-font-size:16px;
+font-size:20px;
 line-height:25px;
-font-weight:400;
+font-weight:600;
 padding:10px 0 5px 0;
 }
 .content-block {
